@@ -1,3 +1,3 @@
-app.controller('MainController', function($scope, $ionicModal, localStorageService) {
+app.controller('MainController', function($scope) {
 
 });
